@@ -1,2 +1,2 @@
 # Lesson-of-Machine-Learning
-In this repository there are exercises that we will use to teach the machine learning lesson at BBVA España 
+In this repository there are exercises that we will use to teach the machine learning lesson at BBVA Spain
